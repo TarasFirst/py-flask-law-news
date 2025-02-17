@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv*
+.git
+.env
+.idea
+Dockerfile
+docker-compose.yml
+*.log
