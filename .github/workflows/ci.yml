@@ -42,6 +42,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t username/py-flask-law-news:latest .
-          docker push username/py-flask-law-news:latest
-
+          docker build -t gtaras/py-flask-law-news:latest .
+          docker push gtaras/py-flask-law-news:latest
